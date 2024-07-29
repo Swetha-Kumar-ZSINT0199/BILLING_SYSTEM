@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BillWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+184ad45d203fbefd64e10f6b63838e27cdd17a73")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d24f2473e75cf8a418ae768bf22724177d5114f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("BillWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BillWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

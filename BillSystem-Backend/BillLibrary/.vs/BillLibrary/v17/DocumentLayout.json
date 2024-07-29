@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\BillSystem\\BillSystem-Backend\\BillLibrary\\",
+  "WorkspaceRootPath": "D:\\BILLING_SYSTEM\\BillSystem-Backend\\BillLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2275FD2-7306-400B-ABA7-674C91329938}|BillLibrary.csproj|d:\\projects\\billsystem\\billsystem-backend\\billlibrary\\repos\\iorderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2275FD2-7306-400B-ABA7-674C91329938}|BillLibrary.csproj|d:\\billing_system\\billsystem-backend\\billlibrary\\repos\\iorderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2275FD2-7306-400B-ABA7-674C91329938}|BillLibrary.csproj|solutionrelative:repos\\iorderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2275FD2-7306-400B-ABA7-674C91329938}|BillLibrary.csproj|d:\\projects\\billsystem\\billsystem-backend\\billlibrary\\modal\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2275FD2-7306-400B-ABA7-674C91329938}|BillLibrary.csproj|d:\\billing_system\\billsystem-backend\\billlibrary\\modal\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2275FD2-7306-400B-ABA7-674C91329938}|BillLibrary.csproj|solutionrelative:modal\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2275FD2-7306-400B-ABA7-674C91329938}|BillLibrary.csproj|d:\\projects\\billsystem\\billsystem-backend\\billlibrary\\modal\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2275FD2-7306-400B-ABA7-674C91329938}|BillLibrary.csproj|d:\\billing_system\\billsystem-backend\\billlibrary\\modal\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2275FD2-7306-400B-ABA7-674C91329938}|BillLibrary.csproj|solutionrelative:modal\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -21,19 +21,19 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BillSystem\\BillLibrary\\Migrations\\20240716085625_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2275FD2-7306-400B-ABA7-674C91329938}|BillLibrary.csproj|d:\\projects\\billsystem\\billsystem-backend\\billlibrary\\modal\\billdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2275FD2-7306-400B-ABA7-674C91329938}|BillLibrary.csproj|d:\\billing_system\\billsystem-backend\\billlibrary\\modal\\billdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2275FD2-7306-400B-ABA7-674C91329938}|BillLibrary.csproj|solutionrelative:modal\\billdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2275FD2-7306-400B-ABA7-674C91329938}|BillLibrary.csproj|d:\\projects\\billsystem\\billsystem-backend\\billlibrary\\modal\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2275FD2-7306-400B-ABA7-674C91329938}|BillLibrary.csproj|d:\\billing_system\\billsystem-backend\\billlibrary\\modal\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2275FD2-7306-400B-ABA7-674C91329938}|BillLibrary.csproj|solutionrelative:modal\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2275FD2-7306-400B-ABA7-674C91329938}|BillLibrary.csproj|d:\\projects\\billsystem\\billsystem-backend\\billlibrary\\repos\\ibillrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2275FD2-7306-400B-ABA7-674C91329938}|BillLibrary.csproj|d:\\billing_system\\billsystem-backend\\billlibrary\\repos\\ibillrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2275FD2-7306-400B-ABA7-674C91329938}|BillLibrary.csproj|solutionrelative:repos\\ibillrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2275FD2-7306-400B-ABA7-674C91329938}|BillLibrary.csproj|d:\\projects\\billsystem\\billsystem-backend\\billlibrary\\repos\\billrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2275FD2-7306-400B-ABA7-674C91329938}|BillLibrary.csproj|d:\\billing_system\\billsystem-backend\\billlibrary\\repos\\billrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2275FD2-7306-400B-ABA7-674C91329938}|BillLibrary.csproj|solutionrelative:repos\\billrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -46,11 +46,11 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BillSystem\\BillLibrary\\Migrations\\20240715115629_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2275FD2-7306-400B-ABA7-674C91329938}|BillLibrary.csproj|d:\\projects\\billsystem\\billsystem-backend\\billlibrary\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2275FD2-7306-400B-ABA7-674C91329938}|BillLibrary.csproj|d:\\billing_system\\billsystem-backend\\billlibrary\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2275FD2-7306-400B-ABA7-674C91329938}|BillLibrary.csproj|solutionrelative:repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2275FD2-7306-400B-ABA7-674C91329938}|BillLibrary.csproj|d:\\projects\\billsystem\\billsystem-backend\\billlibrary\\repos\\itemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2275FD2-7306-400B-ABA7-674C91329938}|BillLibrary.csproj|d:\\billing_system\\billsystem-backend\\billlibrary\\repos\\itemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2275FD2-7306-400B-ABA7-674C91329938}|BillLibrary.csproj|solutionrelative:repos\\itemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -91,9 +91,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "IOrderRepo.cs",
-              "DocumentMoniker": "D:\\Projects\\BillSystem\\BillSystem-Backend\\BillLibrary\\Repos\\IOrderRepo.cs",
+              "DocumentMoniker": "D:\\BILLING_SYSTEM\\BillSystem-Backend\\BillLibrary\\Repos\\IOrderRepo.cs",
               "RelativeDocumentMoniker": "Repos\\IOrderRepo.cs",
-              "ToolTip": "D:\\Projects\\BillSystem\\BillSystem-Backend\\BillLibrary\\Repos\\IOrderRepo.cs",
+              "ToolTip": "D:\\BILLING_SYSTEM\\BillSystem-Backend\\BillLibrary\\Repos\\IOrderRepo.cs",
               "RelativeToolTip": "Repos\\IOrderRepo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -104,9 +104,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Items.cs",
-              "DocumentMoniker": "D:\\Projects\\BillSystem\\BillSystem-Backend\\BillLibrary\\Modal\\Items.cs",
+              "DocumentMoniker": "D:\\BILLING_SYSTEM\\BillSystem-Backend\\BillLibrary\\Modal\\Items.cs",
               "RelativeDocumentMoniker": "Modal\\Items.cs",
-              "ToolTip": "D:\\Projects\\BillSystem\\BillSystem-Backend\\BillLibrary\\Modal\\Items.cs",
+              "ToolTip": "D:\\BILLING_SYSTEM\\BillSystem-Backend\\BillLibrary\\Modal\\Items.cs",
               "RelativeToolTip": "Modal\\Items.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -117,9 +117,9 @@
               "DocumentIndex": 4,
               "Title": "20240716085625_initial.cs",
               "DocumentMoniker": "D:\\BillSystem\\BillLibrary\\Migrations\\20240716085625_initial.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\BillSystem\\BillLibrary\\Migrations\\20240716085625_initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\BillSystem\\BillLibrary\\Migrations\\20240716085625_initial.cs",
               "ToolTip": "D:\\BillSystem\\BillLibrary\\Migrations\\20240716085625_initial.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\BillSystem\\BillLibrary\\Migrations\\20240716085625_initial.cs",
+              "RelativeToolTip": "..\\..\\..\\BillSystem\\BillLibrary\\Migrations\\20240716085625_initial.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T08:56:25.955Z"
@@ -128,9 +128,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "BillRepo.cs",
-              "DocumentMoniker": "D:\\Projects\\BillSystem\\BillSystem-Backend\\BillLibrary\\Repos\\BillRepo.cs",
+              "DocumentMoniker": "D:\\BILLING_SYSTEM\\BillSystem-Backend\\BillLibrary\\Repos\\BillRepo.cs",
               "RelativeDocumentMoniker": "Repos\\BillRepo.cs",
-              "ToolTip": "D:\\Projects\\BillSystem\\BillSystem-Backend\\BillLibrary\\Repos\\BillRepo.cs",
+              "ToolTip": "D:\\BILLING_SYSTEM\\BillSystem-Backend\\BillLibrary\\Repos\\BillRepo.cs",
               "RelativeToolTip": "Repos\\BillRepo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -140,9 +140,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "IBillRepo.cs",
-              "DocumentMoniker": "D:\\Projects\\BillSystem\\BillSystem-Backend\\BillLibrary\\Repos\\IBillRepo.cs",
+              "DocumentMoniker": "D:\\BILLING_SYSTEM\\BillSystem-Backend\\BillLibrary\\Repos\\IBillRepo.cs",
               "RelativeDocumentMoniker": "Repos\\IBillRepo.cs",
-              "ToolTip": "D:\\Projects\\BillSystem\\BillSystem-Backend\\BillLibrary\\Repos\\IBillRepo.cs",
+              "ToolTip": "D:\\BILLING_SYSTEM\\BillSystem-Backend\\BillLibrary\\Repos\\IBillRepo.cs",
               "RelativeToolTip": "Repos\\IBillRepo.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -152,9 +152,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Bill.cs",
-              "DocumentMoniker": "D:\\Projects\\BillSystem\\BillSystem-Backend\\BillLibrary\\Modal\\Bill.cs",
+              "DocumentMoniker": "D:\\BILLING_SYSTEM\\BillSystem-Backend\\BillLibrary\\Modal\\Bill.cs",
               "RelativeDocumentMoniker": "Modal\\Bill.cs",
-              "ToolTip": "D:\\Projects\\BillSystem\\BillSystem-Backend\\BillLibrary\\Modal\\Bill.cs",
+              "ToolTip": "D:\\BILLING_SYSTEM\\BillSystem-Backend\\BillLibrary\\Modal\\Bill.cs",
               "RelativeToolTip": "Modal\\Bill.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAAwBoAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -164,9 +164,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\Projects\\BillSystem\\BillSystem-Backend\\BillLibrary\\Modal\\User.cs",
+              "DocumentMoniker": "D:\\BILLING_SYSTEM\\BillSystem-Backend\\BillLibrary\\Modal\\User.cs",
               "RelativeDocumentMoniker": "Modal\\User.cs",
-              "ToolTip": "D:\\Projects\\BillSystem\\BillSystem-Backend\\BillLibrary\\Modal\\User.cs",
+              "ToolTip": "D:\\BILLING_SYSTEM\\BillSystem-Backend\\BillLibrary\\Modal\\User.cs",
               "RelativeToolTip": "Modal\\User.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -176,9 +176,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "BillDBContext.cs",
-              "DocumentMoniker": "D:\\Projects\\BillSystem\\BillSystem-Backend\\BillLibrary\\Modal\\BillDBContext.cs",
+              "DocumentMoniker": "D:\\BILLING_SYSTEM\\BillSystem-Backend\\BillLibrary\\Modal\\BillDBContext.cs",
               "RelativeDocumentMoniker": "Modal\\BillDBContext.cs",
-              "ToolTip": "D:\\Projects\\BillSystem\\BillSystem-Backend\\BillLibrary\\Modal\\BillDBContext.cs",
+              "ToolTip": "D:\\BILLING_SYSTEM\\BillSystem-Backend\\BillLibrary\\Modal\\BillDBContext.cs",
               "RelativeToolTip": "Modal\\BillDBContext.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAEwBsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -189,9 +189,9 @@
               "DocumentIndex": 10,
               "Title": "20240716070409_initial.cs",
               "DocumentMoniker": "D:\\BillSystem\\BillLibrary\\Migrations\\20240716070409_initial.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\BillSystem\\BillLibrary\\Migrations\\20240716070409_initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\BillSystem\\BillLibrary\\Migrations\\20240716070409_initial.cs",
               "ToolTip": "D:\\BillSystem\\BillLibrary\\Migrations\\20240716070409_initial.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\BillSystem\\BillLibrary\\Migrations\\20240716070409_initial.cs",
+              "RelativeToolTip": "..\\..\\..\\BillSystem\\BillLibrary\\Migrations\\20240716070409_initial.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T07:04:09.343Z"
@@ -201,9 +201,9 @@
               "DocumentIndex": 14,
               "Title": "BillController.cs",
               "DocumentMoniker": "D:\\BillSystem\\BillWebApi\\Controllers\\BillController.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\BillSystem\\BillWebApi\\Controllers\\BillController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\BillSystem\\BillWebApi\\Controllers\\BillController.cs",
               "ToolTip": "D:\\BillSystem\\BillWebApi\\Controllers\\BillController.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\BillSystem\\BillWebApi\\Controllers\\BillController.cs",
+              "RelativeToolTip": "..\\..\\..\\BillSystem\\BillWebApi\\Controllers\\BillController.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAmwBcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T09:02:57.443Z"
@@ -212,9 +212,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "UserRepo.cs",
-              "DocumentMoniker": "D:\\Projects\\BillSystem\\BillSystem-Backend\\BillLibrary\\Repos\\UserRepo.cs",
+              "DocumentMoniker": "D:\\BILLING_SYSTEM\\BillSystem-Backend\\BillLibrary\\Repos\\UserRepo.cs",
               "RelativeDocumentMoniker": "Repos\\UserRepo.cs",
-              "ToolTip": "D:\\Projects\\BillSystem\\BillSystem-Backend\\BillLibrary\\Repos\\UserRepo.cs",
+              "ToolTip": "D:\\BILLING_SYSTEM\\BillSystem-Backend\\BillLibrary\\Repos\\UserRepo.cs",
               "RelativeToolTip": "Repos\\UserRepo.cs",
               "ViewState": "AQIAAD8AAAAAAAAAAAAowDAAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -225,9 +225,9 @@
               "DocumentIndex": 11,
               "Title": "20240715115629_Initial.cs",
               "DocumentMoniker": "D:\\BillSystem\\BillLibrary\\Migrations\\20240715115629_Initial.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\BillSystem\\BillLibrary\\Migrations\\20240715115629_Initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\BillSystem\\BillLibrary\\Migrations\\20240715115629_Initial.cs",
               "ToolTip": "D:\\BillSystem\\BillLibrary\\Migrations\\20240715115629_Initial.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\BillSystem\\BillLibrary\\Migrations\\20240715115629_Initial.cs",
+              "RelativeToolTip": "..\\..\\..\\BillSystem\\BillLibrary\\Migrations\\20240715115629_Initial.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T11:56:29.885Z"
             },
@@ -236,9 +236,9 @@
               "DocumentIndex": 15,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\BillSystem\\BillWebApi\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\BillSystem\\BillWebApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\BillSystem\\BillWebApi\\Controllers\\UserController.cs",
               "ToolTip": "D:\\BillSystem\\BillWebApi\\Controllers\\UserController.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\BillSystem\\BillWebApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "..\\..\\..\\BillSystem\\BillWebApi\\Controllers\\UserController.cs",
               "ViewState": "AQIAACMAAAAAAAAAAADwvywAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T07:21:55.441Z"
@@ -248,9 +248,9 @@
               "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\BillSystem\\BillWebApi\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\BillSystem\\BillWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\BillSystem\\BillWebApi\\Program.cs",
               "ToolTip": "D:\\BillSystem\\BillWebApi\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\BillSystem\\BillWebApi\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\BillSystem\\BillWebApi\\Program.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAQwBwAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T09:26:30.865Z"
@@ -260,9 +260,9 @@
               "DocumentIndex": 17,
               "Title": "ItemController.cs",
               "DocumentMoniker": "D:\\BillSystem\\BillWebApi\\Controllers\\ItemController.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\BillSystem\\BillWebApi\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\BillSystem\\BillWebApi\\Controllers\\ItemController.cs",
               "ToolTip": "D:\\BillSystem\\BillWebApi\\Controllers\\ItemController.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\BillSystem\\BillWebApi\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "..\\..\\..\\BillSystem\\BillWebApi\\Controllers\\ItemController.cs",
               "ViewState": "AQIAADcAAAAAAAAAAAAAAEkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T12:05:11.748Z"
@@ -271,9 +271,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "ItemRepo.cs",
-              "DocumentMoniker": "D:\\Projects\\BillSystem\\BillSystem-Backend\\BillLibrary\\Repos\\ItemRepo.cs",
+              "DocumentMoniker": "D:\\BILLING_SYSTEM\\BillSystem-Backend\\BillLibrary\\Repos\\ItemRepo.cs",
               "RelativeDocumentMoniker": "Repos\\ItemRepo.cs",
-              "ToolTip": "D:\\Projects\\BillSystem\\BillSystem-Backend\\BillLibrary\\Repos\\ItemRepo.cs",
+              "ToolTip": "D:\\BILLING_SYSTEM\\BillSystem-Backend\\BillLibrary\\Repos\\ItemRepo.cs",
               "RelativeToolTip": "Repos\\ItemRepo.cs",
               "ViewState": "AQIAAFEAAAAAAAAAAAAowGIAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -4111,11 +4111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\BillSystem\\BillSystem-Backend\\BillLibrary\\BillLibrary.csproj",
+      "projectUniqueName": "D:\\BILLING_SYSTEM\\BillSystem-Backend\\BillLibrary\\BillLibrary.csproj",
       "projectName": "BillLibrary",
-      "projectPath": "D:\\Projects\\BillSystem\\BillSystem-Backend\\BillLibrary\\BillLibrary.csproj",
+      "projectPath": "D:\\BILLING_SYSTEM\\BillSystem-Backend\\BillLibrary\\BillLibrary.csproj",
       "packagesPath": "C:\\Users\\swetha.kumar\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\BillSystem\\BillSystem-Backend\\BillLibrary\\obj\\",
+      "outputPath": "D:\\BILLING_SYSTEM\\BillSystem-Backend\\BillLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

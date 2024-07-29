@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BillLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+184ad45d203fbefd64e10f6b63838e27cdd17a73")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fabe542f043340e3846f68603cdaa5e4aa625f34")]
 [assembly: System.Reflection.AssemblyProductAttribute("BillLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BillLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
