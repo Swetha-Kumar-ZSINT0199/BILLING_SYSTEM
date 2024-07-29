@@ -1,0 +1,15 @@
+D:\BillSystem\BillLibrary\bin\Debug\net8.0\BillLibrary.deps.json
+D:\BillSystem\BillLibrary\bin\Debug\net8.0\BillLibrary.runtimeconfig.json
+D:\BillSystem\BillLibrary\bin\Debug\net8.0\BillLibrary.dll
+D:\BillSystem\BillLibrary\bin\Debug\net8.0\BillLibrary.pdb
+D:\BillSystem\BillLibrary\obj\Debug\net8.0\BillLibrary.csproj.AssemblyReference.cache
+D:\BillSystem\BillLibrary\obj\Debug\net8.0\BillLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\BillSystem\BillLibrary\obj\Debug\net8.0\BillLibrary.AssemblyInfoInputs.cache
+D:\BillSystem\BillLibrary\obj\Debug\net8.0\BillLibrary.AssemblyInfo.cs
+D:\BillSystem\BillLibrary\obj\Debug\net8.0\BillLibrary.csproj.CoreCompileInputs.cache
+D:\BillSystem\BillLibrary\obj\Debug\net8.0\BillLibrary.dll
+D:\BillSystem\BillLibrary\obj\Debug\net8.0\refint\BillLibrary.dll
+D:\BillSystem\BillLibrary\obj\Debug\net8.0\BillLibrary.pdb
+D:\BillSystem\BillLibrary\obj\Debug\net8.0\BillLibrary.genruntimeconfig.cache
+D:\BillSystem\BillLibrary\obj\Debug\net8.0\ref\BillLibrary.dll
+D:\BillSystem\BillLibrary\obj\Debug\net8.0\BillLibrary.sourcelink.json
