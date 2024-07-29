@@ -1,0 +1,23 @@
+<nav class="navbar">
+  <ul class="navbar-menu">
+    <!-- Show user greeting and Logout button only if user is logged in -->
+    @if(this.userEmail!=null){
+      
+        <li class="navbar-item"><a routerLink="/home" routerLinkActive="active">Home</a></li>
+        <li class="navbar-item">
+          <p>Hai {{ this.userEmail }}</p>
+        </li>
+        <li class="navbar-item">
+          <button (click)="logout()">Logout</button>
+        </li>
+     }
+    @else{
+      <!-- <ul class="navbar-menu"> -->
+        <li class="navbar-item"><a routerLink="/home" routerLinkActive="active">Home</a></li>
+        <!-- Show Signup and Login links only if user is not logged in -->
+        <li class="navbar-item"><a routerLink="/signup" routerLinkActive="active">Signup</a></li>
+        <li class="navbar-item"><a routerLink="/login" (click)="login()" routerLinkActive="active">Login</a></li>   
+    }
+  </ul>
+ </nav>
+

@@ -1,0 +1,25 @@
+.navbar {
+    background-color: rgb(95, 105, 146);
+    padding: 1em;
+  }
+  
+  .navbar-menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  .navbar-item {
+    margin-right: 1em;
+  }
+  
+  .navbar-item a {
+    color: whitesmoke;
+    text-decoration: none;
+  }
+  
+  .navbar-item a:hover {
+    color: #ff6347;
+  }
+  

@@ -1,0 +1,60 @@
+.file-list-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Adjust height as needed */
+    background-image: url('https://th.bing.com/th/id/R.739f925403a073fdc68e69800ef7e866?rik=tSBywKK8p5mawA&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f1%2f5%2f2%2f129510.jpg&ehk=ik1d2U2NuIct5jkdHHvLBG9wPj8tZKKkOmtVBL2QZaU%3d&risl=&pid=ImgRaw&r=0'); /* Replace with your image path */
+
+  }
+  
+  .table-container {
+    width: 80%;
+    margin-top: 20px; /* Add top margin for spacing */
+    display: flex; /* Ensure container is flex */
+    justify-content: center; /* Center contents horizontally */
+  }
+  
+  .mat-table {
+    width: 100%;
+    border: 1px solid #ccc; /* Example border */
+    border-collapse: collapse;
+  }
+  
+  .mat-header-cell, .mat-cell {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ccc; /* Example border */
+  }
+  
+  .mat-header-row {
+    background-color: #f0f0f0; /* Example header background color */
+  }
+  
+  .mat-row:nth-child(even) {
+    background-color: #f9f9f9; /* Example alternating row background color */
+  }
+  
+  .button-container {
+    margin-top: 20px; /* Add top margin for spacing */
+    text-align: center;
+  }
+  .file-list-container {
+    margin: 20px;
+  }
+  
+  .table-container {
+    margin-top: 20px;
+  }
+  
+  .button-container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-end;
+    size: 50px;
+  }
+  
+  .mat-elevation-z8 {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+  }
+  

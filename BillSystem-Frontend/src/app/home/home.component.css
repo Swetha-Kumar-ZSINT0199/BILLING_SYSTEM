@@ -1,0 +1,8 @@
+.background-container {
+    height: 100vh; /* Ensures the container takes up the full viewport height */
+    background-image: url('https://gitpacconsultancy.com/wp-content/uploads/2022/03/Ministry-of-Finance-launches-e-Bill-system-to-enable-paperless-submission-and-end-to-end-digital-processing-of-bills-copy-1-1110x550.jpg');
+    background-size: cover; /* Ensures the image covers the entire background */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center center; /* Centers the image */
+    background-attachment: fixed; /* Keeps the background fixed in place */
+  }

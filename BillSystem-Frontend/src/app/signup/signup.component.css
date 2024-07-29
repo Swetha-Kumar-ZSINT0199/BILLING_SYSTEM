@@ -1,0 +1,71 @@
+.signup-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('https://th.bing.com/th/id/R.739f925403a073fdc68e69800ef7e866?rik=tSBywKK8p5mawA&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f1%2f5%2f2%2f129510.jpg&ehk=ik1d2U2NuIct5jkdHHvLBG9wPj8tZKKkOmtVBL2QZaU%3d&risl=&pid=ImgRaw&r=0'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .signup-card {
+    width: 400px;
+    padding: 30px;
+    background-color: rgba(255, 255, 255, 0.9); /* Adjust opacity as needed */
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-title {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333333;
+  }
+  
+  .form-subtitle {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #666666;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #cccccc;
+    border-radius: 3px;
+  }
+  
+  .btn-signup {
+    width: 100%;
+    padding: 12px;
+    font-size: 18px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .btn-signup:hover {
+    background-color: #45a049;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .link-login {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .link-login:hover {
+    text-decoration: underline;
+  }
+  

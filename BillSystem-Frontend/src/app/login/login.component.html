@@ -1,0 +1,25 @@
+<table style="width: 100%; height: 100%;">
+  <tr>
+    <td style="vertical-align: middle; text-align: center;">
+      <div class="container">
+        <div class="login-container">
+          <form (ngSubmit)="onsubmit()" class="login-form" style="width: 300px; margin: 0 auto; text-align: left;">
+            <h1 class="form-title">LOGIN</h1>
+            
+            <div class="form-group">
+              <label for="Name" class="form-label">Gmail</label>
+              <input type="text" name="UserName" placeholder="Username" [(ngModel)]="log.Username" class="form-control" required>
+            </div>
+      
+            <div class="form-group">
+              <label for="Name" class="form-label">Password</label>
+              <input type="password" name="Password" placeholder="Password" [(ngModel)]="log.Password" class="form-control" required>
+            </div>
+      
+            <button type="submit" class="btn-login">Login</button>
+          </form>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>

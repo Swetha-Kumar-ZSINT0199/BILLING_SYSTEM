@@ -1,0 +1,49 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: grey; /* Background color of the container */
+    background-image: url('https://gitpacconsultancy.com/wp-content/uploads/2022/03/Ministry-of-Finance-launches-e-Bill-system-to-enable-paperless-submission-and-end-to-end-digital-processing-of-bills-copy-1-1110x550.jpg');
+  }
+  
+  .form-box {
+    width: 300px; /* Adjust width of the form box */
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(62, 30, 30, 0.1); /* Optional: Add shadow for depth */
+  }
+  
+  .item-form div {
+    margin-bottom: 10px;
+  }
+  
+  .item-form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .item-form input[type="text"], .item-form input[type="number"] {
+    width: calc(100% - 12px);
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+  
+  .item-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    align-items: center;
+  }
+  
+  .item-form button:hover {
+    background-color: #0056b3;
+  }
+  

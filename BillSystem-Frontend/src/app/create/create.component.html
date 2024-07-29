@@ -1,0 +1,42 @@
+<div class="form-container">
+    <div class="form-box">
+      <h2>Add Item</h2>
+      <form (ngSubmit)="onSubmit()" #itemForm="ngForm" class="item-form">
+        <table>
+          <tr>
+            <td><label for="name">Item Name:</label></td>
+            <td><input type="text" id="name" name="name" [(ngModel)]="formData.name" [required]="true" #name="ngModel"></td>
+            <td>
+              <div *ngIf="name.invalid && (name.dirty || name.touched)">
+                <div *ngIf="name.errors && name.errors['required']">Item Name is required.</div>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td><label for="qty">Quantity:</label></td>
+            <td><input type="text" id="qty" name="qty" [(ngModel)]="formData.qty" [required]="true" #qty="ngModel"></td>
+            <td>
+              <div *ngIf="qty.invalid && (qty.dirty || qty.touched)">
+                <div *ngIf="qty.errors && qty.errors['required']">Quantity is required.</div>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td><label for="price">Price:</label></td>
+            <td><input type="text" id="price" name="price" [(ngModel)]="formData.price" [required]="true" #price="ngModel"></td>
+            <td>
+              <div *ngIf="price.invalid && (price.dirty || price.touched)">
+                <div *ngIf="price.errors && price.errors['required']">Price is required.</div>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="3">
+              <button type="submit" [disabled]="itemForm.invalid">Add Item</button>
+            </td>
+          </tr>
+        </table>
+      </form>
+    </div>
+  </div>
+  
